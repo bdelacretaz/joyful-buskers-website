@@ -105,6 +105,10 @@ La Bille 2019: les styles se rencontrent
 
 **Ste-Croix** - Concert au Comptoir de Ste-Croix en hiver 2016, les Joyful Buskers ont bravé la neige pour y arriver!
 
+{%figure "/_images/2023/buskers-susanfe-vallon.webp" "Cabane de Susanfe, 2023" %}
+
+**Susanfe** - un petit concert en version réduite à la [Cabane de Susanfe](https://susanfe.ch/) en juillet 2023, il a fallu marcher un peu mais ça valait la peine! Si vous êtes intéressés, les outils du bûcher vont très bien pour improviser des percussions.
+
 <figure>
 
 [![](/_images/2019/03/carnaboum.jpg?w=736)](https://carnaboum.ch/)
@@ -117,7 +121,6 @@ Carnaboum 2019, Val d'Illiez
 
 </figure>
 
-**Susanfe** - un petit concert en version réduite à la [Cabane de Susanfe](https://susanfe.ch/) en juillet 2023, il a fallu marcher un peu mais ça valait la peine! Si vous êtes intéressés, les outils du bûcher vont très bien pour improviser des percussions.
 
 **Val d'Illiez** - Carnaboum 2019, ambiance festive, costumes incroyables, les Joyful Buskers au rendez-vous!
 

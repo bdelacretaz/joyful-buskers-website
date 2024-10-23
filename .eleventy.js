@@ -4,32 +4,6 @@ module.exports = function (eleventyConfig) {
     eleventyConfig.addPassthroughCopy("src/_images");
     eleventyConfig.addPassthroughCopy("htaccess");
 
-    /* --- ADS --- */
-    eleventyConfig.addNunjucksShortcode("topIndexAd", function() {
-        return ``
-    })
-
-    eleventyConfig.addNunjucksShortcode("topPostAd", function() {
-        return ``
-    })
-
-    eleventyConfig.addNunjucksShortcode("bottomImagePostAd", function() {
-        return ``
-    })
-
-    eleventyConfig.addNunjucksShortcode("bottomContentPostAd", function() {
-        return ``
-    })
-
-    eleventyConfig.addNunjucksShortcode("topPostMinimalAd", function() {
-        return ``
-    })
-
-    eleventyConfig.addNunjucksShortcode("bottomContentPostMinimalAd", function() {
-        return ``
-    })
-    /* --- ./ADS --- */
-
     // Shortcodes
     eleventyConfig.addShortcode("audio", require("./src/11ty/audioEmbed.js"));
     eleventyConfig.addShortcode("youtube", require("./src/11ty/youtubeEmbed.js"));
@@ -93,46 +67,6 @@ module.exports = function (eleventyConfig) {
           return b.date - a.date;
         });
     });
-
-    // Related articles, disabled for now
-    /*
-    eleventyConfig.addFilter('relacionados', function(collection, etiquetas, path, limite) {
-
-        const filtrados = new Set();
-
-        collection.map(item => {
-            for (etiqueta of etiquetas) {
-                // console.log(item.data.tags.length)
-                if (item.data.tags && item.data.tags.includes(etiqueta)) {
-                    filtrados.add(item)
-                }
-            }
-        })
-
-        // Eliminar Post Actual
-        for (item of filtrados) {
-            if (item.data.page.inputPath == path) {
-                filtrados.delete(item)
-            }
-        }
-
-        // Limitar el número de Articulos y que sean aleatorios
-        let articulosFiltrados = Array.from(filtrados)
-        if(articulosFiltrados.length <= limite) {
-            return articulosFiltrados
-        }
-
-        do {
-            let indice = Math.floor(Math.random()*articulosFiltrados.length)
-            articulosFiltrados.splice((indice - 1), 1)
-
-        } while (articulosFiltrados.length > limite)
-
-        return articulosFiltrados
-
-    })
-    */
-
 
     // Clean-css
     const CleanCSS = require("clean-css");

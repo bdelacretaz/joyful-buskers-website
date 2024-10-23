@@ -10,10 +10,6 @@ x_featuredImage: /_images/default.jpg
 
     <main class="section is-flex-grow-1">
 
-      <div class="container">
-        {% topPostAd %}
-      </div>
-
       <article class="container articulo">
         <header class=" container has-text-centered">
           {% if config.showDate %}
@@ -36,8 +32,6 @@ x_featuredImage: /_images/default.jpg
           </figure>
         {% endif %}
 
-        {% bottomImagePostAd %}
-
         <div class="is-flex">
           <div class="articulo-content content mb-0">
             {{ content | safe }}
@@ -47,8 +41,6 @@ x_featuredImage: /_images/default.jpg
             {% include "share-buttons.njk" %}
           {% endif %}
         </div>
-
-        {% bottomContentPostAd %}
 
       </article>
     </main>
