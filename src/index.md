@@ -22,7 +22,8 @@ Nous sommes à votre disposition pour des concerts, soirées privées, fêtes de
 
 * * *
 
-Si vous avez une bonne excuse pour nous engager (ou même une fantaisiste, ça va aussi) **n'hésitez pas à nous contacter** , nous avons une [page tout exprès pour ça](http://joyful-buskers.ch/allo-les-buskers/), ou alors par mail à allo (at) joyful-buskers.ch .
+Si vous avez une bonne excuse pour nous engager (ou même une fantaisiste, ça va aussi) n'hésitez pas à nous contacter, 
+par le formulaire ci-dessous.
 
 Vous pouvez écouter et voir des extraits de notre répertoire sur la page [Musique & Vidéo](https://joyful-buskers.ch/album2016/) et vous abonner à notre [page Facebook](http://facebook.com/joyful.buskers.inc) pour nos dernières nouvelles.
 
