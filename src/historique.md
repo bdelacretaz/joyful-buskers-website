@@ -25,7 +25,7 @@ Jean-Michel nous accompagne jusqu’à fin 2019, avec notamment un concert mémo
 
 Le début 2020 voit un nouveau changement de guitariste (toujours en bons termes, mais les projets de chacun évoluent) et Richard Rossier nous rejoint pour écrire un nouveau chapitre qui se veut encore plus joyeux et varié. Mais bon...cette formation vivra pour un seul concert, mémorable, dans l'excellent Caveau de l'Hôtel de Ville à Avenches, juste avant que le covid-19 stoppe tout.
 
-{% figure "/_images//2024/buskers-lagune-2024-seb-DSC00522.jpeg", "Joyful Buskers, Edition 2024: Bertrand Delacrétaz (percussions, chant, kazoo, claviers), Silvia Soranzo (chant, accordina, kazoo), Françoise Schneider (guitare, chant, ukulele) et Olivier David (basse)" %}
+{% figure "/_images//2024/buskers-lagune-2024-seb-DSC00522.webp", "Joyful Buskers, Edition 2024: Bertrand Delacrétaz (percussions, chant, kazoo, claviers), Silvia Soranzo (chant, accordina, kazoo), Françoise Schneider (guitare, chant, ukulele) et Olivier David (basse)" %}
 
 Nous reprenons en Avril 2022 avec un petit concert privé à Cheseaux-Noréaz et un enregistrement public à La Lagune à Cheyres en mai 2022. _And then they were quatre_...Richard a entre-temps déménagé dans un canton très très loin, on continue à quatre!
 
@@ -34,6 +34,10 @@ L'histoire continue, et entre des kazoo tricotés main et un petit clavier qui s
 {% include "logo.njk" %}
 
 # Quelques enregistrements "historiques"
+
+## La Lagune, 2022
+
+{%vimeo "https://vimeo.com/760021984","La formation actuelle, en concert à Cheyres en 2022" %}
 
 ## L'Album Live 2016
 

@@ -3,7 +3,7 @@ layout: post.njk
 title: "Joyful Buskers (Inc.)"
 x_unused_tags: ['no', 'tags']
 description: Reprises pop & country en Suisse romande
-featuredImage: /_images/2024//buskers-lagune-2024-seb-DSC00522.jpeg
+featuredImage: /_images/2024//buskers-lagune-2024-seb-DSC00522.webp
 x_permalink: /xx/
 date: "2015-02-17"
 eleventyExcludeFromCollections: false
@@ -11,12 +11,7 @@ eleventyExcludeFromCollections: false
 
 Notre répertoire de reprises pop & country "unplugged" (ou presque) a fait ses preuves depuis 2015, pour de nombreux concerts et événements en Suisse romande. Vous trouvez sur la page des [références](https://joyful-buskers.ch/references/) la liste des concerts publics que vous avez manqué ces dernières années.
 
-<figure>
-{% vimeo "https://vimeo.com/760021984" %}
-<figcaption>
-Joyful Buskers, Quatrième Edition: Françoise Schneider (guitares & chant) & Silvia Soranzo (chant, accordina, kazoo), Bertrand Delacrétaz (percussions, chant, kazoo) et Olivier David (basse)
-</figcaption>
-</figure>
+{%vimeo "https://vimeo.com/760021984","Joyful Buskers, Quatrième Edition: Françoise Schneider (guitares & chant) & Silvia Soranzo (chant, accordina, kazoo), Bertrand Delacrétaz (percussions, chant, kazoo) et Olivier David (basse)" %}
 
 Nous sommes à votre disposition pour des concerts, soirées privées, fêtes de village, anniversaires (aussi dans votre salon) et autres animations.
 
@@ -25,7 +20,7 @@ Nous sommes à votre disposition pour des concerts, soirées privées, fêtes de
 Si vous avez une bonne excuse pour nous engager (ou même une fantaisiste, ça va aussi) n'hésitez pas à nous contacter, 
 par le formulaire ci-dessous.
 
-Vous pouvez écouter et voir des extraits de notre répertoire sur la page [Musique & Vidéo](https://joyful-buskers.ch/album2016/) et vous abonner à notre [page Facebook](http://facebook.com/joyful.buskers.inc) pour nos dernières nouvelles.
+Vous pouvez écouter et voir des extraits de notre répertoire sur la page [Musique & Vidéo](/musique-videos/) et vous abonner à notre [page Facebook](http://facebook.com/joyful.buskers.inc) pour nos dernières nouvelles.
 
 {% include "logo.njk" %}
 

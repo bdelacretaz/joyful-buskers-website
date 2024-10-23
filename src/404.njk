@@ -1,5 +1,5 @@
 ---
-title: Oops! Página no Encontrada
+title: Bon ben, pas trouvé. Vraiment.
 permalink: 404.html
 layout: 404.njk
 eleventyExcludeFromCollections: true
@@ -10,24 +10,9 @@ eleventyExcludeFromCollections: true
 <div class="section">
   <div class="container">
     <div class="has-text-centered my-6">
-      <h1 class="title is-1 is-spaced">Error #404</h1>
-      <h2 class="subtitle is-4">Lo sentimos, la página que está buscando no existe.</h2>
-      <a href="/" class="button">Ir a la Página de Inicio</a>
+      <h1 class="title is-1 is-spaced">Error #404.<br/>Bon, 405 avec la TVA.</h1>
+      <h2 class="subtitle is-4">Désolés, mais alors désolés. Y'a pas cette page. Nulle part.</h2>
+      <a href="/" class="button">Hop, à la maison.</a>
     </div>
-  </div>
-</div>
-
-<div class="section">
-  <div class="container">
-    <div class="columns is-variable is-5 is-multiline is-mobile">
-    {# Lastest 3 articles #}
-    {%- for item in collections.all | reverse -%}
-      {% if loop.index0 < 3 %}
-        <div class="column is-one-third-tablet is-full-mobile mb-5">
-          {% include "tarjeta.njk" %}
-        </div>
-      {% endif %}
-    {%- endfor -%}
-  </div>
   </div>
 </div>

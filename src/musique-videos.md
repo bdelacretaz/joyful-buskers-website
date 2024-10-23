@@ -13,13 +13,13 @@ eleventyExcludeFromCollections: false
 
 Voici quelques extraits de notre concert du 14 mai 2022 au [restaurant La Lagune](https://www.la-lagune.net/restaurant-cheyres/) à Cheyres.
 
-{%vimeo "https://vimeo.com/760021984" %}
+{%vimeo "https://vimeo.com/760021984" "La Lagune, Mai 2022" %}
 
 Après visionnement, n'oubliez pas de [nous contacter](/allo-les-buskers/) pour nous engager pour cette tournée mondiale! Ou pour autre chose - les Joyful Buskers sont flexibles!
 
 ## Notre Concert Le Plus Frigorifié...
 
-Voici quelques impressions de notre Concert Le Plus Frigorifié, dans notre première formation avec le regretté Thierry Hadorn à la guitare. C'était en 2016 aux portes ouvertes de la [Brasserie Docteur Gab's](https://www.facebook.com/docteurgabs), filmées par [simcast prod](https://www.facebook.com/simcastprod/) que nous remercions chaleureusement!
+Voici quelques impressions de notre Concert Le Plus Frigorifié, dans notre première formation avec le regretté Thierry Hadorn à la guitare et au banjo. C'était en 2016 aux portes ouvertes de la [Brasserie Docteur Gab's](https://www.docteurgabs.ch/), filmées par [simcast prod](https://simcast.ch/) que nous remercions chaleureusement!
 
 {%youtube "https://www.youtube.com/watch?v=GuodoQaTeTk" %}
 
