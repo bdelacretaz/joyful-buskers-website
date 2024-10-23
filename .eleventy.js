@@ -35,6 +35,7 @@ module.exports = function (eleventyConfig) {
     eleventyConfig.addShortcode("youtube", require("./src/11ty/youtubeEmbed.js"));
     eleventyConfig.addShortcode("vimeo", require("./src/11ty/vimeoEmbed.js"));
     eleventyConfig.addShortcode("figure", require("./src/11ty/figureShortcode.js"));
+    eleventyConfig.addShortcode("contact", require("./src/11ty/contact.js"));
 
     /* --- Social Icons --- */
     eleventyConfig.addNunjucksShortcode("facebookDarkIcon", function() {

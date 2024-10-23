@@ -132,3 +132,11 @@ body {
 nav .logo {
   min-height: 50px;
 }
+
+form {
+  width: 100%;
+}
+
+label, input, textarea {
+  width: 100%;
+}

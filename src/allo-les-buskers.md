@@ -9,7 +9,6 @@ x_permalink: /xx/
 eleventyExcludeFromCollections: false
 ---
 
-Oui oui c'est ici pour nous contacter! Ou aussi par mail à allo (at) joyful-buskers.ch
+{% contact %}
 
-_Bon, la page "contact" n'est pas encore finie, alors écrivez-nous à
-allo (at) joyful-buskers.ch_
+{% include "logo.njk" %}

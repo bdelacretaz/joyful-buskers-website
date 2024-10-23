@@ -37,3 +37,5 @@ _Ce n'est pas la musique que j'ai l'habitude d'écouter mais j'ai apprécié le 
 _Sympa votre musique, nous avons apprécié le volume sonore raisonnable et adapté à la salle! -_ A.G et D.R, spectateurs enthousiastes.
 
 _Un immense bonheur de découvrir vos chansons et votre répertoire si varié!_ - C.R.
+
+{% contact %}
