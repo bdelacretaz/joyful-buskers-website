@@ -12,7 +12,7 @@
             Si logo desde fichero: <img src="{{ config.logoUrl }}" alt="{{ config.title }}"/>
             Si logo insertado como SVG: {% logoSVG %}
           #}
-          <img src="{{ config.logoUrl }}" alt="{{ config.title }}"/>
+          <img class="logo" src="{{ config.logoUrl }}" alt="{{ config.title }}"/>
         {% else %}
           {{ config.title }}
         {% endif %}
@@ -33,7 +33,7 @@
 
     <div id="mobile-navbar" class="navbar-menu">
 
-      {% if config.search === true or config.navbarButtons.length > 0 %}
+      {% if config.search === true or config.navbarMenu.length > 0 %}
       <div class="navbar-end">
 
         {% for item in config.navbarMenu %}

@@ -30,6 +30,11 @@ module.exports = function (eleventyConfig) {
     })
     /* --- ./ADS --- */
 
+    // Shortcodes
+    eleventyConfig.addShortcode("audio", require("./src/11ty/audioEmbed.js"));
+    eleventyConfig.addShortcode("youtube", require("./src/11ty/youtubeEmbed.js"));
+    eleventyConfig.addShortcode("vimeo", require("./src/11ty/vimeoEmbed.js"));
+    eleventyConfig.addShortcode("figure", require("./src/11ty/figureShortcode.js"));
 
     /* --- Social Icons --- */
     eleventyConfig.addNunjucksShortcode("facebookDarkIcon", function() {
@@ -87,7 +92,8 @@ module.exports = function (eleventyConfig) {
         });
     });
 
-    // Artículos relacionados
+    // Related articles, disabled for now
+    /*
     eleventyConfig.addFilter('relacionados', function(collection, etiquetas, path, limite) {
 
         const filtrados = new Set();
@@ -123,6 +129,7 @@ module.exports = function (eleventyConfig) {
         return articulosFiltrados
 
     })
+    */
 
 
     // Clean-css

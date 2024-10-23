@@ -1,5 +1,5 @@
 # joyful-buskers-website
-Source of joyful-buskers.ch
+Source of joyful-buskers.ch, based on the https://github.com/jalediazb/once theme.
 
 ## Local test
 

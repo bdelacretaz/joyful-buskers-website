@@ -101,3 +101,34 @@ body {
 .social-flotante li a {
   margin: 5px 0;
 }
+
+.logo {
+  text-align: center;
+}
+
+/* Video size hack.. */
+@media (min-width: 500px) {
+  .video {
+    width: 100%;
+    min-height:400px;
+    text-align: center;
+  }
+}
+@media (max-width: 500px) {
+  .video {
+    width: 100%;
+    min-height:300px;
+    text-align: center;
+  }
+}
+@media (max-width: 400px) {
+  .video {
+    width: 100%;
+    min-height:250px;
+    text-align: center;
+  }
+}
+
+nav .logo {
+  min-height: 50px;
+}

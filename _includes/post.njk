@@ -1,12 +1,11 @@
 ---
-title: Título Artículo
-featuredImage: /_images/default.jpg
+title: Post layout
+x_featuredImage: /_images/default.jpg
 ---
 
   {% include "head.njk" %}
 
   <body class="is-flex is-flex-direction-column">
-
     {% include "nav.njk" %}
 
     <main class="section is-flex-grow-1">
@@ -21,7 +20,9 @@ featuredImage: /_images/default.jpg
             <p class="mb-1"><time class="has-text-grey-dark is-size-7">Published: {{ page.date | postDate }}</time></p>
           {% endif %}
           <h1 class="title is-1 is-size-3-mobile has-text-weight-bold">{{ title}}</h1>
-          <p class="is-size-5 has-text-grey-dark has-text-weight-light is-family-sans-serif">{{ description }}</p>
+          {% if description %}
+            <p class="is-size-5 has-text-grey-dark has-text-weight-light is-family-sans-serif">{{ description }}</p>
+          {% endif %}
           <div class="tags is-justify-content-center mt-3">
             {% for tag in tags %}
               <a href="/tags/{{ tag }}" class="tag">{{ tag }}</a>
@@ -38,17 +39,13 @@ featuredImage: /_images/default.jpg
         {% bottomImagePostAd %}
 
         <div class="is-flex">
-
           <div class="articulo-content content mb-0">
-
             {{ content | safe }}
-
           </div>
 
           {% if config.showShareButtons%}
             {% include "share-buttons.njk" %}
           {% endif %}
-
         </div>
 
         {% bottomContentPostAd %}
