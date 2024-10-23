@@ -16,6 +16,7 @@
   "dependencies": {
     "clean-css": "^5.3.3",
     "confetti": "^2.0.3",
+    "cross-env": "^7.0.3",
     "eleventy-plugin-purgecss": "^0.5.0",
     "html-minifier": "^4.0.0",
     "terser": "^5.36.0"
