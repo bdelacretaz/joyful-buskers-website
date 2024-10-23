@@ -31,12 +31,12 @@ Vous pouvez écouter et voir des extraits de notre répertoire sur la page [Musi
 
 #### Ce qu'ils en disent...
 
-_Des musiques actuelles servies à la sauce country, c’est totalement original et incroyablement jubilatoire! -_ programme de la Fête de la Musique 2016, Châtel-St-Denis.
+{%quote "André, 5'432 concerts au compteur","Ce n'est pas la musique que j'ai l'habitude d'écouter mais j'ai apprécié le tout, particulièrement les deux voix des filles, elles ont des voix qui ne sont pas standard mais avec un grain d'originalité. Elles chantent juste, ce qui ne gâte rien - c'est une chance pour elles d'avoir des voix originales!" %}
 
-_Ce n'est pas la musique que j'ai l'habitude d'écouter mais j'ai apprécié le tout, particulièrement les deux voix des filles, elles ont des voix qui ne sont pas standard mais avec un grain d'originalité. Elles chantent juste, ce qui ne gâte rien - c'est une chance pour elles d'avoir des voix originales! -_ André, 5'432 concerts au compteur.
+{%quote "Programme de la Fête de la Musique 2016, Châtel-St-Denis","Des musiques actuelles servies à la sauce country, c’est totalement original et incroyablement jubilatoire!" %}
 
-_Sympa votre musique, nous avons apprécié le volume sonore raisonnable et adapté à la salle! -_ A.G et D.R, spectateurs enthousiastes.
+{%quote "A.G et D.R, spectateurs enthousiastes","Sympa votre musique, nous avons apprécié le volume sonore raisonnable et adapté à la salle!" %}
 
-_Un immense bonheur de découvrir vos chansons et votre répertoire si varié!_ - C.R.
+{%quote "C.R.","Un immense bonheur de découvrir vos chansons et votre répertoire si varié!" %}
 
 {% contact %}

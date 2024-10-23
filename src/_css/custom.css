@@ -140,3 +140,8 @@ form {
 label, input, textarea {
   width: 100%;
 }
+
+blockquote .auteur {
+  font-style: italic;
+  text-align: right;
+}
