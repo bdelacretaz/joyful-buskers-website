@@ -31,7 +31,7 @@ _Voici une petite liste de nos concerts publics depuis 2015, avec un grand merci
 
 {%figure "/_images/2022/05/buskers-lagune-mai2022-1.jpeg","Joyful Buskers (Inc.), Edition 2022, à La Lagune à Cheyres" %}
 
-**Cheyres** - merci à [Festicheyres 2018](http://www.festicheyres.ch/) de nous avoir accueillis sur sa Scéne des Arbres à l'heure de l'Apéro Dansant du samedi. Organisation, météo, public, 10/10 partout! Et merci au [restaurant de la Lagune](https://www.la-lagune.net/) de nous avoir accueillis en mai 2022 pour l'enregistrement public de notre nouvelle "Edition 2022" ainsi qu'en juillet 2022 et 2023 pour l'animation du restaurant!
+**Cheyres** - merci à [Festicheyres 2018](http://www.festicheyres.ch/) de nous avoir accueillis sur sa Scéne des Arbres à l'heure de l'Apéro Dansant du samedi. Organisation, météo, public, 10/10 partout! Et merci au [restaurant de la Lagune](https://www.la-lagune.net/) de nous avoir accueillis en mai 2022 pour l'enregistrement public de notre nouvelle "Edition 2022" ainsi qu'en juillet 2022, 2023 et 2024 pour l'animation du restaurant!
 
 {%figure "/_images/2017/12/buskers-azimut-2016-eric-humair.jpg","L'Azimut, Estavayer-le-Lac, 2016. Photo: Eric Humair" %}
 
