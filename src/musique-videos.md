@@ -11,7 +11,7 @@ eleventyExcludeFromCollections: false
 
 ## La Lagune, mai 2022
 
-Voici quelques extraits de notre concert du 14 mai 2022 au [restaurant La Lagune](https://www.la-lagune.net/restaurant-cheyres/) à Cheyres.
+Voici quelques extraits de notre concert du 14 mai 2022 au [restaurant La Lagune]([https://www.la-lagune.net/restaurant-cheyres/](https://www.la-lagune.net/)) à Cheyres.
 
 {%vimeo "https://vimeo.com/760021984" "La Lagune, Mai 2022" %}
 
