@@ -62,18 +62,6 @@ body {
   box-shadow: 0 0.5em 1em -0.125em rgb(10 10 10 / 10%), 0 0px 0 1px rgb(10 10 10 / 2%);
 }
 
-/* Post and Article Content*/
-@media( min-width: 1024px) {
-  figure.featured-image {
-    margin: 0rem -3rem !important;
-  }
-}
-@media(max-width: 768px) {
-  figure.featured-image {
-    margin: 1rem -0.75rem !important;
-  }
-}
-
 /* Search */
 #search-results {
   max-height: 250px;
@@ -144,4 +132,12 @@ label, input, textarea {
 blockquote .auteur {
   font-style: italic;
   text-align: right;
+}
+
+figure {
+  width: 100%;
+  text-align: center !important;
+  margin-left: 0 !important;
+  margin-right: 0 !important;
+  margin-bottom: 1em !important;
 }

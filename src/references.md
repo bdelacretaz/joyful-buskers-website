@@ -25,7 +25,7 @@ _Voici une petite liste de nos concerts publics depuis 2015, avec un grand merci
 
 **La Chaux-du-Haut** - bon, y'a pas encore de Chaux-du-Haut mais il faudrait, ou bien?
 
-[![](/_images/2022/11/joyful-buskers-grandson-2022.jpeg?w=732)](/_images/2022/11/joyful-buskers-grandson-2022.jpeg)
+{% figure "/_images/2022/11/joyful-buskers-grandson-2022.jpeg" "Ca va être le Grand Son!" %}
 
 **Cheseaux-Noréaz** - concert privé au refuge de Pic-Mar en avril 2022. Un endroit magnifique, public magnifique, concert apprécié!
 
@@ -37,7 +37,7 @@ _Voici une petite liste de nos concerts publics depuis 2015, avec un grand merci
 
 **Estavayer-le-Lac** - concert à L'Azimut en novembre 2016, en première partie de Worry Blast. Nous y avons enregistré notre premier [Album Live](http://joyful-buskers.ch/album2016/).
 
-[![Musique & Petits Sons, Grandson 2022](/_images/2022/05/grandson-mai-2022.jpg?w=504)](/_images/2022/05/grandson-mai-2022.jpg)
+{%figure "/_images/2022/05/grandson-mai-2022.jpg" "Encore le Grand Son!" %}
 
 **Grandson** - Deux concerts au [Croch'Pied](https://croch-pied.com/), en 2016 et 2022, deux soirées mémorables et appréciées. En 2019, la soirée de soutien de [Passion Gospel](https://passiongospel.com) à la Salle des Quais, un mélange de styles sympathique. Et en juin 2022 la fête _Musique et Petits Sons_, une autre scène de rue bien adaptée à notre style!
 

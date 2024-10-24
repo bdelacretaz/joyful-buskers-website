@@ -21,7 +21,7 @@ Le grand moment de 2017 est notre concert à L’Azimut à Estavayer-le-Lac et l
 
 Jean-Michel nous accompagne jusqu’à fin 2019, avec notamment un concert mémorable à Festicheyres, deux participations à l’animation des “Soupes d’ici et d’Ailleurs” à Yverdon-les-Bains, le Carnaval de Val d’Illiez et d’autres événements similaires.
 
-{%figure "/_images/2020/02/joyful-buskers-richard-2020-bw.jpg", "Joyful Buskers (Inc.) édition 2020. De gauche à droite: Bertrand Delacrétaz (batterie, percussions, chant), Silvia Soranzo (chant, accordina), Françoise Schneider (chant, guitare, ukulele), Richard Rossier (guitare), Olivier David (basse)" %}
+{%figure "/_images/2020/02/joyful-buskers-richard-2020-bw.jpg", "Joyful Buskers (Inc.) édition 2020, avec Richard Rossier (guitare)" %}
 
 Le début 2020 voit un nouveau changement de guitariste (toujours en bons termes, mais les projets de chacun évoluent) et Richard Rossier nous rejoint pour écrire un nouveau chapitre qui se veut encore plus joyeux et varié. Mais bon...cette formation vivra pour un seul concert, mémorable, dans l'excellent Caveau de l'Hôtel de Ville à Avenches, juste avant que le covid-19 stoppe tout.
 
