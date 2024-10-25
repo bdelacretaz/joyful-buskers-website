@@ -2,7 +2,7 @@ module.exports = function (src, title) {
     return `
     <h2>Contactez nous!</h2>
     <p>Ici ou par email <a href="mailto:joyful-buskers@x42.ch">joyful-buskers@x42.ch</a></p>
-    <form method='POST' name='contact' data-netlify='true'>
+    <form method='POST' name='contact' data-netlify='true' netlify-honeypot="faux-pas">
         <input type='hidden' name='form-name' value='contact' />
         <p>
             <label>Votre nom<br/><input required type="text" name="name" /></label>
