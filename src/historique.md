@@ -17,11 +17,14 @@ Les années 2015 et 2016 sont riches en concerts dans notre région, notamment a
 
 {%figure "/_images/2015/thierry-hadorn-joyful-buskers.webp","Thierry Hadorn &#8224 au banjo, tu nous manques!" %}
 
-Le grand moment de 2017 est notre concert à L’Azimut à Estavayer-le-Lac et l’enregistrement de notre premier Album Live, disponible en téléchargement [sur notre site](https://joyful-buskers.ch/album2016/). Thierry Hadorn, notre banjoïste et “steel guitariste” nous quitte à fin 2017 pour poursuivre d’autres projets plus spécifiquement country et bluegrass, et nous accueillons dès 2018 Jean-Michel Garcia à la guitare, qui amène une touche un peu plus électrique tout en restant fidèle à notre style de “faux musiciens de rue” heureux d’être sur scène.
+Le grand moment de 2017 est notre concert à L’Azimut à Estavayer-le-Lac et l’enregistrement de notre premier Album Live,
+que vous pouvez écouter ci-dessous. Thierry Hadorn, notre banjoïste et “steel guitariste” nous quitte à fin 2017 pour poursuivre d’autres projets plus spécifiquement country et bluegrass, et nous accueillons dès 2018 Jean-Michel Garcia à la guitare, qui amène une touche un peu plus électrique tout en restant fidèle à notre style de “faux musiciens de rue” heureux d’être sur scène.
+
+{%figure "/_images/2019/06/60022491_1118902424978328_4504916769286127616_o-1.webp" "Avec Jean-Michel Garcia à la Crèperie de Rue en 2019" %}
 
 Jean-Michel nous accompagne jusqu’à fin 2019, avec notamment un concert mémorable à Festicheyres, deux participations à l’animation des “Soupes d’ici et d’Ailleurs” à Yverdon-les-Bains, le Carnaval de Val d’Illiez et d’autres événements similaires.
 
-{%figure "/_images/2020/02/joyful-buskers-richard-2020-bw.webp", "Joyful Buskers (Inc.) édition 2020, avec Richard Rossier (guitare)" %}
+{%figure "/_images/2020/02/joyful-buskers-richard-2020.webp", "Joyful Buskers (Inc.) édition 2020, avec Richard Rossier (guitare)" %}
 
 Le début 2020 voit un nouveau changement de guitariste (toujours en bons termes, mais les projets de chacun évoluent) et Richard Rossier nous rejoint pour écrire un nouveau chapitre qui se veut encore plus joyeux et varié. Mais bon...cette formation vivra pour un seul concert, mémorable, dans l'excellent Caveau de l'Hôtel de Ville à Avenches, juste avant que le covid-19 stoppe tout.
 
@@ -29,7 +32,7 @@ Le début 2020 voit un nouveau changement de guitariste (toujours en bons termes
 
 Nous reprenons en Avril 2022 avec un petit concert privé à Cheseaux-Noréaz et un enregistrement public à La Lagune à Cheyres en mai 2022. _And then they were quatre_...Richard a entre-temps déménagé dans un canton très très loin, on continue à quatre!
 
-L'histoire continue, et entre des kazoo tricotés main et un petit clavier qui se glisse entre les percussions, les solistes en nous ne restent pas muets. Pour vérifier? Venez nous écouter!
+L'histoire continue, et entre des [kazoo tricotés main](https://afkazoo.ch/) et un petit clavier qui se glisse entre les percussions, les solistes en nous ne restent pas muets. Pour vérifier? Venez nous écouter!
 
 {% include "logo.njk" %}
 
