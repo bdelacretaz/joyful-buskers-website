@@ -4,7 +4,7 @@ title: "Musique et vidéos"
 date: "2017-01-20"
 x_unused_tags: ['no', 'tags']
 description: "Joyful Buskers (Inc.)"
-x_featuredImage: /_images/03.jpg
+x_featuredImage: /_images/03.webp
 x_permalink: /xx/
 eleventyExcludeFromCollections: false
 ---
@@ -27,7 +27,7 @@ Voici quelques impressions de notre Concert Le Plus Frigorifié, dans notre prem
 
 Pour ne pas céder à la déprime du covid-19 et pour contributer à une cause sympathique, les Joyful Buskers vous ont offert en 2020 notre version de "La Tendresse" de Bourvil, enregistrée à distance en mode 100% corono-compatible!
 
-![](/_images/2020/04/buskers-latendresse-photo.jpg)
+![](/_images/2020/04/buskers-latendresse-photo.webp)
 
 La bonne cause c'est les gens du village de Mase qui ont fait entendre ce titre en se promenant dans le village chaque soir au printemps 2020, lisez donc [l'article du Nouvelliste](https://www.lenouvelliste.ch/dossiers/coronavirus/articles/coronavirus-la-chanson-la-tendresse-resonne-chaque-soir-a-mase-923878). Alors les Masiens (Masistes? Masinets?) Nous espérons que notre version vous plaira, et pour agrémenter vos tournées on vous met aussi la version karaoké, sans les voix pour que vous puissiez chanter dessus! Spéciale dédicace à Fabienne et Imlam et on se réjouit de vous entendre!
 

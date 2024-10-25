@@ -3,7 +3,7 @@ layout: post.njk
 title: Historique
 x_unused_tags: ['no', 'tags']
 description: "Joyful Buskers (Inc.)"
-x_featuredImage: /_images/03.jpg
+x_featuredImage: /_images/03.webp
 x_permalink: /xx/
 date: 2021-12-30
 eleventyExcludeFromCollections: false
@@ -15,13 +15,13 @@ Les Joyful Buskers ont leurs racines dans la musique country mais étendent rapi
 
 Les années 2015 et 2016 sont riches en concerts dans notre région, notamment aux fêtes de la Musique de Neuchâtel, Yverdon-les-Bains et Châtel-St-Denis, au caveau du Croch’Pied à Grandson, à la, Foire de St-Blaise, au Comptoir de Ste-Croix et dans d’autres manifestations “tous publics” où notre répertoire varié et accessible fait mouche.
 
-{%figure "/_images/2015/thierry-hadorn-joyful-buskers.jpg","Thierry Hadorn &#8224 au banjo, tu nous manques!" %}
+{%figure "/_images/2015/thierry-hadorn-joyful-buskers.webp","Thierry Hadorn &#8224 au banjo, tu nous manques!" %}
 
 Le grand moment de 2017 est notre concert à L’Azimut à Estavayer-le-Lac et l’enregistrement de notre premier Album Live, disponible en téléchargement [sur notre site](https://joyful-buskers.ch/album2016/). Thierry Hadorn, notre banjoïste et “steel guitariste” nous quitte à fin 2017 pour poursuivre d’autres projets plus spécifiquement country et bluegrass, et nous accueillons dès 2018 Jean-Michel Garcia à la guitare, qui amène une touche un peu plus électrique tout en restant fidèle à notre style de “faux musiciens de rue” heureux d’être sur scène.
 
 Jean-Michel nous accompagne jusqu’à fin 2019, avec notamment un concert mémorable à Festicheyres, deux participations à l’animation des “Soupes d’ici et d’Ailleurs” à Yverdon-les-Bains, le Carnaval de Val d’Illiez et d’autres événements similaires.
 
-{%figure "/_images/2020/02/joyful-buskers-richard-2020-bw.jpg", "Joyful Buskers (Inc.) édition 2020, avec Richard Rossier (guitare)" %}
+{%figure "/_images/2020/02/joyful-buskers-richard-2020-bw.webp", "Joyful Buskers (Inc.) édition 2020, avec Richard Rossier (guitare)" %}
 
 Le début 2020 voit un nouveau changement de guitariste (toujours en bons termes, mais les projets de chacun évoluent) et Richard Rossier nous rejoint pour écrire un nouveau chapitre qui se veut encore plus joyeux et varié. Mais bon...cette formation vivra pour un seul concert, mémorable, dans l'excellent Caveau de l'Hôtel de Ville à Avenches, juste avant que le covid-19 stoppe tout.
 
