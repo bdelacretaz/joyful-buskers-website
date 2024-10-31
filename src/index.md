@@ -3,7 +3,7 @@ layout: post.njk
 title: "Joyful Buskers (Inc.)"
 x_unused_tags: ['no', 'tags']
 description: Reprises pop & country en Suisse romande
-featuredImage: /_images/2024//buskers-lagune-2024-seb-DSC00522.webp
+featuredImage: /_images/2024/buskers-portrait-lagune-by-sebastien-david.webp
 x_permalink: /xx/
 date: "2015-02-17"
 eleventyExcludeFromCollections: false
