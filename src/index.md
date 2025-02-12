@@ -9,7 +9,8 @@ date: "2015-02-17"
 eleventyExcludeFromCollections: false
 ---
 
-> Nous serons en concert à l'Azimut à Estavayer le **samedi 17 mai 2025 en soirée** pour fêter nos dix ans, avec des artistes invités. Réservez déjà la date, les détails suivront!
+> Nous serons en concert à l'Azimut à Estavayer le **samedi 17 mai 2025 en soirée** pour fêter nos dix ans, avec des artistes invités.
+**La billetterie sera ouverte ici** vers fin février, réservez déjà la date !
 
 Notre répertoire de reprises pop & country "unplugged" (ou presque) a fait ses preuves depuis 2015, pour de nombreux concerts et événements en Suisse romande. Vous trouvez sur la page des [références](https://joyful-buskers.ch/references/) la liste des concerts publics que vous avez manqué ces dernières années.
 
