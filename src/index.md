@@ -3,14 +3,22 @@ layout: post.njk
 title: "Joyful Buskers (Inc.)"
 x_unused_tags: ['no', 'tags']
 description: Reprises pop & country en Suisse romande
-featuredImage: /_images/2024/buskers-portrait-lagune-by-sebastien-david.webp
+x_featuredImage: /_images/2024/buskers-portrait-lagune-by-sebastien-david.webp
 x_permalink: /xx/
 date: "2015-02-17"
 eleventyExcludeFromCollections: false
 ---
 
-> Nous serons en concert à l'Azimut à Estavayer le **samedi 17 mai 2025 en soirée** pour fêter nos dix ans, avec des artistes invités.
-**La billetterie sera ouverte ici** vers fin février, réservez déjà la date !
+# Dix ans, ça se fête!
+
+Nous vous invitons pour un concert festif **à la Salle de l'Azimut à Estavayer-le-Lac le samedi 17 mai 2025 à 20h** pour fêter nos dix ans, avec des artistes invités: **Vincent
+Pache** en première partie, avec son programme de chansons françaises, l'inénarrable **Richard Rossier** à la guitare pour nous accompagner dans la suite du programme, et quelques invités surprise.
+
+Nous attendons du monde, il est fortement conseillé de **réserver vos places**. Le prix d'entrée est de 20.- pour les adultes, entrée gratuite (mais réservation nécessaire) pour les enfants de moins de 16 ans.
+
+<a target="_new" class="button" href="https://infomaniak.events/fr-ch/concerts/dix-ans-de-joyful-buskers/f96dc482-15c6-474b-b67d-6eb308089d43/event/1375629">Cliquez ici pour réserver vos billets!</a>
+
+{%figure "/_images/buskers-10-ans.webp",,"Nous fêtons nos dix ans le 17 mai 2025" %}
 
 Notre répertoire de reprises pop & country "unplugged" (ou presque) a fait ses preuves depuis 2015, pour de nombreux concerts et événements en Suisse romande. Vous trouvez sur la page des [références](https://joyful-buskers.ch/references/) la liste des concerts publics que vous avez manqué ces dernières années.
 
