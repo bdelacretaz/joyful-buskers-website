@@ -12,7 +12,7 @@ eleventyExcludeFromCollections: false
 # Dix ans, ça se fête!
 
 Nous vous invitons pour un concert festif **à la Salle de l'Azimut à Estavayer-le-Lac le samedi 17 mai 2025 à 20h** pour fêter nos dix ans, avec des artistes invités: **Vincent
-Pache** en première partie, avec son programme de chansons françaises, l'inénarrable **Richard Rossier** à la guitare pour nous accompagner dans la suite du programme, et quelques invités surprise.
+Pache** en première partie, avec son programme de chansons françaises, l'inénarrable **Richard Rossier** à la guitare pour nous accompagner dans la suite du programme, et quelques invités surprise. Et un bar et des sandwiches.
 
 Nous attendons du monde, il est fortement conseillé de **réserver vos places**. Le prix d'entrée est de 20.- pour les adultes, entrée gratuite (mais réservation nécessaire) pour les enfants de moins de 16 ans.
 
