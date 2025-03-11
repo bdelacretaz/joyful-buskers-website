@@ -9,15 +9,26 @@ date: "2015-02-17"
 eleventyExcludeFromCollections: false
 ---
 
-# Dix ans, ça se fête!
+# En concert pour nos dix ans, le 17 mai!
 
-Nous vous invitons pour un concert festif **à la Salle de l'Azimut à Estavayer-le-Lac le samedi 17 mai 2025 à 20h** pour fêter nos dix ans, avec des artistes invités: **Vincent
-Pache** en première partie, avec son programme de chansons françaises, l'inénarrable
-<a target="_new" href="https://youtu.be/y-xS6aWCX6I?si=g_R1WZl_ZoKtrm9m&t=128">**Richard Rossier**</a> à la guitare pour nous accompagner dans la suite du programme, et quelques invités surprise. Et un bar et des sandwiches.
+<img src="/_images/buskers-logo-10ans.webp" style="float:right ; width:25%; margin-left:1em;">
 
-Nous attendons du monde, il est fortement conseillé de **réserver vos places**. Le prix d'entrée est de 20.- pour les adultes, entrée gratuite (mais réservation nécessaire) pour les enfants de moins de 16 ans.
+Nous vous convions à un concert festif à la
+<a href="https://l-azimut.ch/" target="_new">Salle de l'Azimut</a>
+à Estavayer-le-Lac le samedi 17 mai 2025 à 20h pour célébrer notre dixième anniversaire. Avec **Vincent Pache** en première partie, avec ses chansons françaises, et l'inénarrable
+<a target="_new" href="https://youtu.be/y-xS6aWCX6I?si=g_R1WZl_ZoKtrm9m&t=128">**Richard Rossier**</a> pour nous accompagner à la guitare.
+Et quelques invités surprise.
+Et un bar et des sandwiches!
 
-<a target="_new" class="button" href="https://infomaniak.events/fr-ch/concerts/dix-ans-de-joyful-buskers/f96dc482-15c6-474b-b67d-6eb308089d43/event/1375629">Cliquez ici pour réserver vos billets!</a>
+Il est fortement conseillé de **réserver vos places**. Le prix d'entrée est de 20.- pour les adultes, entrée gratuite (mais réservation nécessaire) pour les enfants de moins de 16 ans.
+
+<a
+    target="_new"
+    class="button"
+    style="background-color:red; color:white; font-weight:bold;"
+    href="https://infomaniak.events/fr-ch/concerts/dix-ans-de-joyful-buskers/f96dc482-15c6-474b-b67d-6eb308089d43/event/1375629">
+        Cliquez ici pour réserver vos places!
+</a>
 
 {%figure "/_images/buskers-10-ans.webp",,"Nous fêtons nos dix ans le 17 mai 2025" %}
 
