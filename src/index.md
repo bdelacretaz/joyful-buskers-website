@@ -22,6 +22,8 @@ Et un bar et des sandwiches!
 
 Il est fortement conseillé de **réserver vos places**. Le prix d'entrée est de 20.- pour les adultes, entrée gratuite (mais réservation nécessaire) pour les enfants de moins de 16 ans.
 
+Avec notre musique tout publics jouée à un volume raisonnable, les familles sont très bienvenues!
+
 <a
     target="_new"
     class="button"
