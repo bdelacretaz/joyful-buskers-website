@@ -15,7 +15,7 @@ eleventyExcludeFromCollections: false
 
 Nous vous convions à un concert festif à la
 <a href="https://l-azimut.ch/" target="_new">Salle de l'Azimut</a>
-à Estavayer-le-Lac le samedi 17 mai 2025 à 20h pour célébrer notre dixième anniversaire. Avec **Vincent Pache** en première partie, avec ses chansons françaises, et l'inénarrable
+à Estavayer-le-Lac le samedi 17 mai 2025 au soir, pour célébrer notre dixième anniversaire. Avec **Vincent Pache** en première partie, avec ses chansons françaises, et l'inénarrable
 <a target="_new" href="https://youtu.be/y-xS6aWCX6I?si=g_R1WZl_ZoKtrm9m&t=128">**Richard Rossier**</a> pour nous accompagner à la guitare.
 Et quelques invités surprise.
 Et un bar et des sandwiches!
@@ -23,6 +23,8 @@ Et un bar et des sandwiches!
 Il est fortement conseillé de **réserver vos places**. Le prix d'entrée est de 20.- pour les adultes, entrée gratuite (mais réservation nécessaire) pour les enfants de moins de 16 ans.
 
 Avec notre musique tout publics jouée à un volume raisonnable, les familles sont très bienvenues!
+
+Ouverture des portes à 19h15, concert à 20h.
 
 <a
     target="_new"
