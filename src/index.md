@@ -36,7 +36,7 @@ Ouverture des portes à 19h15, concert à 20h.
 
 <a
     target="_new"
-    style="background-color:red; color:white; font-weight:bold;"
+    alt="Téléchargez l'affiche du concert"
     href="/_images/pdf/joyful-buskers-17mai-2025-affiche-1page.pdf">
     <figure>
         <img src="/_images/2025/buskers-17mai-affiche-a4-v1.001.webp">
