@@ -11,7 +11,7 @@ eleventyExcludeFromCollections: false
 
 # En concert pour nos dix ans, le 17 mai!
 
-<img src="/_images/buskers-logo-10ans.webp" style="float:right ; width:25%; margin-left:1em;">
+<img src="/_images/2025/buskers-logo-10ans.webp" style="float:right ; width:25%; margin-left:1em;">
 
 Nous vous convions à un concert festif à la
 <a href="https://l-azimut.ch/" target="_new">Salle de l'Azimut</a>
@@ -34,7 +34,17 @@ Ouverture des portes à 19h15, concert à 20h.
         Cliquez ici pour réserver vos places!
 </a>
 
-{%figure "/_images/buskers-10-ans.webp",,"Nous fêtons nos dix ans le 17 mai 2025" %}
+<a
+    target="_new"
+    style="background-color:red; color:white; font-weight:bold;"
+    href="/_images/pdf/joyful-buskers-17mai-2025-affiche-1page.pdf">
+    <figure>
+        <img src="/_images/2025/buskers-17mai-affiche-a4-v1.001.webp">
+        <figcaption>Nous fêtons nos dix ans le 17 mai 2025</figcaption>
+    </figure>
+</a>
+
+
 
 Notre répertoire de reprises pop & country "unplugged" (ou presque) a fait ses preuves depuis 2015, pour de nombreux concerts et événements en Suisse romande. Vous trouvez sur la page des [références](https://joyful-buskers.ch/references/) la liste des concerts publics que vous avez manqué ces dernières années.
 
@@ -49,7 +59,9 @@ par le formulaire ci-dessous.
 
 Vous pouvez écouter et voir des extraits de notre répertoire sur la page [Musique & Vidéo](/musique-videos/) et vous abonner à notre [page Facebook](http://facebook.com/joyful.buskers.inc) pour nos dernières nouvelles.
 
+<!--
 {% include "logo.njk" %}
+-->
 
 #### Ce qu'ils en disent...
 
