@@ -9,7 +9,9 @@ date: "2015-02-17"
 eleventyExcludeFromCollections: false
 ---
 
-# En concert pour nos dix ans, le 17 mai!
+<h1 style="text-align:center">En concert pour nos dix ans, le 17 mai!</h1>
+
+{%figure "/_images/2025/buskers-4-portraits.webp" ""%}
 
 <img src="/_images/2025/buskers-logo-10ans.webp" style="float:right ; width:25%; margin-left:1em;">
 
