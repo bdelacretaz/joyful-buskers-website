@@ -13,7 +13,7 @@ eleventyExcludeFromCollections: false
 
 {%figure "/_images/2025/buskers-4-portraits.webp" ""%}
 
-<img src="/_images/2025/buskers-logo-10ans.webp" style="float:right ; width:25%; margin-left:1em;">
+<img src="/_images/2025/pas-encore-complet.webp" alt="Les places partent vite, faut réserver!" style="float:right ; width:25%; margin-left:1em;">
 
 Nous vous convions à un concert festif à la
 <a href="https://l-azimut.ch/" target="_new">Salle de l'Azimut</a>
