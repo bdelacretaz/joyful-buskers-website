@@ -9,7 +9,7 @@ date: "2015-02-17"
 eleventyExcludeFromCollections: false
 ---
 
-<h1 style="text-align:center">En concert pour nos dix ans, le 17 mai!</h1>
+<h1 style="text-align:center">En concert pour nos dix ans, ce samedi 17 mai!</h1>
 
 {%figure "/_images/2025/buskers-4-portraits.webp" ""%}
 
@@ -22,7 +22,7 @@ Nous vous convions à un concert festif à la
 Et quelques invités surprise.
 Et un bar et des sandwiches!
 
-Il est fortement conseillé de **réserver vos places**. Le prix d'entrée est de 20.- pour les adultes, entrée gratuite (mais réservation nécessaire) pour les enfants de moins de 16 ans.
+Quelques places seront disponibles à l'entrée, mais la billetterie a bien marché, nous vous conseillons de **réserver vos places**. Le prix d'entrée est de 20.- pour les adultes, entrée gratuite (mais réservation nécessaire) pour les enfants de moins de 16 ans.
 
 Avec notre musique tout publics jouée à un volume raisonnable (la vidéo ci-dessous vous en donnera une idée), les familles sont très bienvenues!
 
