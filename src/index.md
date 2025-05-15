@@ -36,15 +36,10 @@ Ouverture des portes à 19h15, concert à 20h.
         Cliquez ici pour réserver vos places!
 </a>
 
-<a
-    target="_new"
-    alt="Téléchargez l'affiche du concert"
-    href="/_images/pdf/joyful-buskers-17mai-2025-affiche-1page.pdf">
-    <figure>
-        <img src="/_images/2025/buskers-17mai-affiche-a4-v1.001.webp">
-        <figcaption>Nous fêtons nos dix ans le 17 mai 2025</figcaption>
-    </figure>
-</a>
+<figure>
+    <img src="_images/2025/buskers-on-vient-chez-vous-mai-2025.webp">
+    <figcaption>On vient jouer chez vous, ou bien?</figcaption>
+</figure>
 
 
 
