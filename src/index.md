@@ -9,39 +9,26 @@ date: "2015-02-17"
 eleventyExcludeFromCollections: false
 ---
 
-<h1 style="text-align:center">En concert pour nos dix ans, ce samedi 17 mai!</h1>
+<h1 style="text-align:center">MERCI!</h1>
 
-{%figure "/_images/2025/buskers-4-portraits.webp" ""%}
+<figure>
+    <img src="_images/2025/buskers-dix-ans-gateau-photo-eric-humair.webp">
+    <figcaption>Le gâteau des dix ans, photo Eric Humair</figcaption>
+</figure>
 
-<img src="/_images/2025/pas-encore-complet.webp" alt="Les places partent vite, faut réserver!" style="float:right ; width:25%; margin-left:1em;">
+Nous sommes très reconnaissant à la centaine  de personnes qui nous ont rejoint pour
+notre concert décanniversaire du 17 mai! Une ambiance exceptionnelle, un public réceptif,
+une salle fantastique, des techniciens et bénévoles au top, et un gâteau offert, que
+voudrait-on de plus!
 
-Nous vous convions à un concert festif à la
-<a href="https://l-azimut.ch/" target="_new">Salle de l'Azimut</a>
-à Estavayer-le-Lac, le **samedi 17 mai 2025** au soir, pour célébrer notre dixième anniversaire. Avec **Vincent Pache** en première partie, avec ses chansons françaises, et l'inénarrable
-<a target="_new" href="https://youtu.be/y-xS6aWCX6I?si=g_R1WZl_ZoKtrm9m&t=128">**Richard Rossier**</a> pour nous accompagner à la guitare.
-Et quelques invités surprise.
-Et un bar et des sandwiches!
-
-Quelques places seront disponibles à l'entrée, mais la billetterie a bien marché, nous vous conseillons de **réserver vos places**. Le prix d'entrée est de 20.- pour les adultes, entrée gratuite (mais réservation nécessaire) pour les enfants de moins de 16 ans.
-
-Avec notre musique tout publics jouée à un volume raisonnable (la vidéo ci-dessous vous en donnera une idée), les familles sont très bienvenues!
-
-Ouverture des portes à 19h15, concert à 20h.
-
-<a
-    target="_new"
-    class="button"
-    style="background-color:red; color:white; font-weight:bold;"
-    href="https://infomaniak.events/fr-ch/concerts/dix-ans-de-joyful-buskers/f96dc482-15c6-474b-b67d-6eb308089d43/event/1375629">
-        Cliquez ici pour réserver vos places!
-</a>
+Nous vous donnons rendez-vous à **Grandson le 4 juillet 2025** où nous animerons la 
+célèbre [course des quais](https://gym-grandson.ch/gymgrandson/course-des-quais/)
+à partir de 18h30 environ.
 
 <figure>
     <img src="_images/2025/buskers-on-vient-chez-vous-mai-2025.webp">
     <figcaption>On vient jouer chez vous, ou bien?</figcaption>
 </figure>
-
-
 
 Notre répertoire de reprises pop & country "unplugged" (ou presque) a fait ses preuves depuis 2015, pour de nombreux concerts et événements en Suisse romande. Vous trouvez sur la page des [références](https://joyful-buskers.ch/references/) la liste des concerts publics que vous avez manqué ces dernières années.
 
