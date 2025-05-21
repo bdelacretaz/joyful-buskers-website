@@ -13,7 +13,7 @@ eleventyExcludeFromCollections: false
 
 <figure>
     <img src="_images/2025/buskers-dix-ans-4-photo-eric-humair.webp">
-    <figcaption>A l'Azimut, Estavayer-le-Lac - Copyright 2025 Azimut E.Humair</figcaption>
+    <figcaption>A l'Azimut, Estavayer-le-Lac, Mai 2025 - Copyright 2025 Azimut E.Humair</figcaption>
 </figure>
 
 Nous sommes très reconnaissant à la centaine  de personnes qui nous ont rejoint pour
