@@ -12,8 +12,8 @@ eleventyExcludeFromCollections: false
 <h1 style="text-align:center">MERCI!</h1>
 
 <figure>
-    <img src="_images/2025/buskers-dix-ans-gateau-photo-eric-humair.webp">
-    <figcaption>Le gâteau des dix ans, photo Eric Humair</figcaption>
+    <img src="_images/2025/buskers-dix-ans-4-photo-eric-humair.webp">
+    <figcaption>A l'Azimut, Estavayer-le-Lac - Copyright 2025 Azimut E.Humair</figcaption>
 </figure>
 
 Nous sommes très reconnaissant à la centaine  de personnes qui nous ont rejoint pour
